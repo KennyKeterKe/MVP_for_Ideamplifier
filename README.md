@@ -20,6 +20,21 @@ The second assignment for Fintech
    - Define criteria for approving pitches
    - Create an admin interface for pitch review and approval
    - Update pitch status in the database
+
+The pre-assessment is the key!
+uploading data. 
+
+users -website-upload-pre-assess-certified-users can publish it
+
+I have to show that this is my page
+
+I can also shoow the workflow of python
+
+
+
+A mock-up tools
+
+不重要！ 最后一步！
 5. Define a function for social media integration (Instagram Story):
    - Authenticate with Instagram API
    - Provide option for entrepreneurs to share approved pitch videos
